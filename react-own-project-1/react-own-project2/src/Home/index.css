@@ -1,0 +1,17 @@
+.bg-container{
+    background-image: url("https://3l.co.ke/wp-content/uploads/2021/05/blog.jpg");
+    height: 75vh;
+    background-size: cover;
+    padding-top: 0px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading{
+    color:hwb(107 0% 0%);
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 100px;
+    
+}
